@@ -1,0 +1,10 @@
+/Users/manalomanolitomarfil/Desktop/RUST-CRUD-ACTIX-3-master/target/debug/deps/polling-68fe619f13d87d4c.rmeta: /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/lib.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/os.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/os/kqueue.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/kqueue.rs
+
+/Users/manalomanolitomarfil/Desktop/RUST-CRUD-ACTIX-3-master/target/debug/deps/libpolling-68fe619f13d87d4c.rlib: /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/lib.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/os.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/os/kqueue.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/kqueue.rs
+
+/Users/manalomanolitomarfil/Desktop/RUST-CRUD-ACTIX-3-master/target/debug/deps/polling-68fe619f13d87d4c.d: /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/lib.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/os.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/os/kqueue.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/kqueue.rs
+
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/lib.rs:
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/os.rs:
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/os/kqueue.rs:
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/polling-3.6.0/src/kqueue.rs:

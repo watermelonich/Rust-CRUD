@@ -1,0 +1,10 @@
+/Users/manalomanolitomarfil/Desktop/RUST-CRUD-ACTIX-3-master/target/debug/deps/cookie-bbf90df83a1c089e.rmeta: /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs
+
+/Users/manalomanolitomarfil/Desktop/RUST-CRUD-ACTIX-3-master/target/debug/deps/cookie-bbf90df83a1c089e.d: /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs /Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs
+
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs:
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs:
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs:
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs:
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs:
+/Users/manalomanolitomarfil/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs:
